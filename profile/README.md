@@ -3,12 +3,17 @@
 <p align="center">
   <img src="../assets/soljar.jpg" alt="Soljar XYZ Banner" width="100%">
 </p>
+
 <h3 align="center">Building the Future of Web3 Tipping & Payments</h3>
 
 <p align="center">
   Welcome to <strong>Soljar XYZ</strong>, where we're redefining digital tipping and payments on the <strong>Solana blockchain</strong>.
 </p>
----
+
+<p align="center">
+  <strong>Program Address:</strong> JARSq9S9RgyynuAwcdWh2yEG6MbhfntWq7zjXjAo87uQ<br>
+  <a href="https://solscan.io/account/JARSq9S9RgyynuAwcdWh2yEG6MbhfntWq7zjXjAo87uQ"><strong>View on Solscan</strong></a>
+</p>
 
 ## 🚀 About Us
 
