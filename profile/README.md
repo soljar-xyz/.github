@@ -1,7 +1,7 @@
 <h1 align="center">Soljar XYZ</h1>
 
 <p align="center">
-  <img src="../assets/soljar.jpg" alt="Soljar XYZ Banner" width="100%">
+  <img src="../assets/soljar-new.jpg" alt="Soljar XYZ Banner" width="100%">
 </p>
 
 <h3 align="center">Building the Future of Web3 Tipping & Payments</h3>
